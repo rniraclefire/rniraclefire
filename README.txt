@@ -1,14 +1,14 @@
 
-    █▀
-   ██
-   ██
- ▄▄██▄▄ ▀▀
-   ██   ██  █▄▀▀█▄█▀▀█▄
-   ██   ██  ██   ██▄▄█▀
- ▄▄██▄▄▄██▄▄█▀  ▄▀█▄▄▄▄
-   ██
-   ██  aka brooke nguyen
-  ▄█   aka miraclefire
+   █▀
+  ██
+  ██
+▄▄██▄▄ ▀▀
+  ██   ██  █▄▀▀█▄█▀▀█▄
+  ██   ██  ██   ██▄▄█▀
+▄▄██▄▄▄██▄▄█▀  ▄▀█▄▄▄▄
+  ██
+  ██  aka brooke nguyen
+ ▄█   aka miraclefire
 
- Founder at teamfireworks.org
- Developer at playvortex.io
+Founder at teamfireworks.org
+Developer at playvortex.io
